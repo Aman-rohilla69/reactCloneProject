@@ -21,7 +21,7 @@ function Github() {
         className="mx-auto m-4 "
         src={data.avatar_url}
         alt="Git picture"
-        width={300}
+        width={300}                     
       />
     </div>
   );
